@@ -12,3 +12,7 @@ web-report/
 
 # macOS
 .DS_Store
+.expo-shared
+package-lock.json
+yarn-error.log
+yarn.lock
